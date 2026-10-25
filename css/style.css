@@ -126,10 +126,10 @@ table{width:100%;border-collapse:collapse}th,td{padding:10px;border-bottom:1px s
 @media(max-width:760px){.container{padding:12px}.login-grid,.teacher-grid{grid-template-columns:1fr}.cell{font-size:12px;border-radius:10px}.bingo-grid{gap:6px}}
 .corner-seal {
   position: fixed;
-  right: ８px;
-  bottom: ８px;
+  right: 8px;
+  bottom: 8px;
 
-  width: 1２0px;
+  width: 120px;
   height: auto;
 
   z-index: 9999;
